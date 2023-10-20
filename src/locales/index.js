@@ -22,4 +22,4 @@ i18nInstance.init({
   interpolation: {
     escapeValue: false,
   },
-});
+}); //test push
