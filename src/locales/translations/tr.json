@@ -1,0 +1,10 @@
+{
+  "signUp": "Kayıt Ol",
+  "name": "Ad",
+  "email": "E-posta",
+  "surname": "Soyad",
+  "password": "Şifre",
+  "passwordRepeat": "Şifre Tekrarı",
+  "passwordMissmatch": "Şifreniz eşleşmiyor.",
+  "genericError": "Bilinmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+}
